@@ -1,4 +1,4 @@
-module github.com/fanpei91/sandwich
+module github.com/luckypoem/sandwich-system-proxy
 
 go 1.12
 
